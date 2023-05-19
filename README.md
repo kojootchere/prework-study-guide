@@ -20,28 +20,34 @@ This study guide solves the problem of scattered and unorganized pre-work materi
 
 What did you learn?
 
-Throughout the development of this study guide, we gained a deep understanding of several key concepts from the cheat sheets. Here's a brief overview of what we learned:
+Throughout the development of this study guide, we gained a deep understanding of several key concepts. Here's a brief overview of what we learned:
 
 HTML:
 
-Semantic Tags: We learned about the importance of using semantic HTML tags to structure our web pages. Semantic tags like <header>, <nav>, <section>, <article>, <aside>, and <footer> provide meaning and improve accessibility for both humans and search engines. They help organize and describe the content within the HTML document, making it easier to understand and maintain.
-HTML Elements: We explored various HTML elements and their usage. Some of the elements we covered include <h1> to <h6> for headings, <p> for paragraphs, <a> for links, <img> for images, <ul> and <ol> for unordered and ordered lists, <table> for tabular data, and <form> for input forms. Understanding these elements allows us to structure our content effectively and create interactive web experiences.
+Semantic Tags: We learned about the importance of using semantic HTML tags to structure our web pages. Semantic tags like header, and footer provide meaning and improve accessibility for both humans and search engines. They help organize and describe the content within the HTML document, making it easier to understand and maintain.
+
+HTML Elements: We explored various HTML elements and their usage. Some of the elements we covered include h1 to h6 for headings, p for paragraphs, a for links, img for images, ul and ol for unordered and ordered lists, table for tabular data, and form for input forms. Understanding these elements allows us to structure our content effectively and create interactive web experiences.
+
 HTML Attributes: We learned about HTML attributes that provide additional information and functionality to HTML elements. Attributes like id, class, src, href, and alt allow us to customize elements, add styling and behavior, and enhance accessibility. We explored how to use these attributes effectively to enhance the functionality and appearance of our web pages.
+
 Document Structure: We discussed the basic structure of an HTML document, which includes the <!DOCTYPE> declaration, the <html> element as the root, the <head> section for metadata and external resources, and the <body> section for the visible content of the webpage. Understanding the document structure helps ensure proper rendering and compatibility across different browsers.
 
 CSS:
 
 CSS Selectors: We learned about different types of CSS selectors, including element selectors, class selectors, ID selectors, and attribute selectors. These allow us to target specific HTML elements and apply styles to them.
+
 Box Model: We explored CSS properties such as margin, padding, and border, which are part of the box model. Understanding these properties helps us control the spacing and layout of elements on a webpage.
 
 Git:
 
 Version Control: We learned about the fundamental concepts of version control and the benefits it provides for managing code changes. We explored the basic Git workflow, including initializing a repository, staging changes, committing them, and pushing to a remote repository.
+
 Branching and Merging: We learned about branching in Git, which allows us to create separate lines of development. We explored how to create and switch between branches, as well as how to merge changes from one branch to another using pull requests.
 
 JavaScript:
 
 Functions: We learned that functions are reusable blocks of code that perform specific tasks. We explored how to define functions, pass arguments, and return values. Functions allow us to organize and modularize our code.
+
 Control Flow: We learned about control flow in JavaScript, which determines the order in which statements are executed. We explored conditional statements like if-else and loops like for. These control flow structures enable us to make decisions and repeat code based on certain conditions.
 
 By incorporating these concepts into the study guide, we have created a comprehensive resource that covers the essential topics and techniques in HTML, CSS, Git, and JavaScript. This study guide serves as a valuable reference for anyone looking to deepen their understanding of these technologies and apply them effectively in web development projects.
