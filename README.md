@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository serves as a comprehensive study guide for the pre-work required for a course. The pre-work is an essential part of the course curriculum, providing foundational knowledge and skills necessary for success in the program. The study guide is designed to assist students in understanding and mastering the key concepts covered in the pre-work materials.
+This repository serves as a comprehensive study guide for the pre-work required for the Penn LPS Coding Bootcamp. The pre-work is an essential part of the course curriculum, providing foundational knowledge and skills necessary for success in the program. The study guide is designed to assist students in understanding and mastering the key concepts covered in the pre-work materials.
 
 What was your motivation?
 
